@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "FOREVER",
+  "base_artist": "L'Arc-en-Ciel",
+  "createdAt": "2026-02-16T16:05:37.890852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN feat. Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_I_Don't_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN_feat._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/02_I_Don’t_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forever After All",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/03_Forever_After_All_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forever",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/04_Forever_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forever",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/05_Forever_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forever and a Day",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/06_Forever_and_a_Day_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forever And A Day (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/07_Forever_And_A_Day_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forever And Ever, Amen",
+      "artist": "Josh Turner feat. Randy Travis",
+      "has_synced": false,
+      "path": "select/08_Forever_And_Ever,_Amen_Josh_Turner_feat._Randy_Travis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forever And Ever, Amen",
+      "artist": "Josh Turner",
+      "has_synced": true,
+      "path": "select/09_Forever_And_Ever,_Amen_Josh_Turner.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Forever and for Always (Red Version)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/10_Forever_and_for_Always_(Red_Version)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Forever Changed",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/11_Forever_Changed_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Forever Country",
+      "artist": "Artists Of Then, Now & Forever",
+      "has_synced": true,
+      "path": "select/12_Forever_Country_Artists_Of_Then,_Now_&_Forever.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Forever Together",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/13_Forever_Together_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Forever Together (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/14_Forever_Together_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Forever And Ever, Amen",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/15_Forever_And_Ever,_Amen_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Forever and Ever, Amen",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/16_Forever_and_Ever,_Amen_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "How Forever Feels",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/17_How_Forever_Feels_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FOREVER",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": false,
+      "path": "select/pl_01_FOREVER_L'Arc〜en〜Ciel.txt"
+    }
+  ]
+}
